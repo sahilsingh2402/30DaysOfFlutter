@@ -14,7 +14,7 @@ class HomePage extends StatelessWidget {
         child: Container(
           child: Text('Welcome to $days days of flutter by $name!!!',
               style: TextStyle(
-                color: Colors.tealAccent,
+                color: Colors.red,
                 fontSize: 18,
                 fontWeight: FontWeight.bold,
               )),
